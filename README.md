@@ -4,9 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-5000+-blue?style=for-the-badge)
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+![GitHub followers](https://img.shields.io/github/followers/udit-bhardwaj?style=for-the-badge)
+
+<img src="https://img.shields.io/badge/Software%20Developer-Udit%20Bhardwaj-blue?style=for-the-badge&logo=github" />
+
 
 - 🔭 I’m currently working on **Automation**
 
@@ -123,13 +126,50 @@
 <a href="https://www.tensorflow.org" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" />
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" />
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" />
+</a>
+
+<!-- HuggingFace -->
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" />
+</a>
+
+<!-- OpenAI -->
+<a href="https://openai.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" />
+</a>
+
+<!-- Google AI -->
+<a href="https://ai.google/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_AI_Logo.svg" width="40" height="40" />
+</a>
+
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" />
+</a>
+
+<!-- Pinecone Vector DB -->
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" height="40" />
+</a>
 
 </p>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+[![Udit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=UDI6129&theme=xcode)](https://github.com/UDI6129)
