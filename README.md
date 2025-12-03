@@ -172,4 +172,4 @@
 </a>
 
 </p>
-[![Udit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=UDI6129&theme=xcode)](https://github.com/UDI6129)
+[![Udit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Udi6129&theme=xcode)](https://github.com/Udi6129)
